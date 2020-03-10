@@ -50,6 +50,24 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
       "value": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 12,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 2
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 6,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 2
     }
   ],
   "description": "Unleash flames from your pistol to burn foes. Deals more damage the closer you are.",
@@ -87,6 +105,28 @@
       "apply_count": 4,
       "requires_trait": 1878,
       "overrides": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 16,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 2,
+      "requires_trait": 1878,
+      "overrides": 7
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+      "duration": 8,
+      "status": "Burning",
+      "description": "Deals damage every second; stacks intensity.",
+      "apply_count": 2,
+      "requires_trait": 1878,
+      "overrides": 8
     }
   ]
 }

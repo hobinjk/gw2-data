@@ -21,29 +21,13 @@
       "dmg_multiplier": 1.25
     },
     {
-      "text": "Damage",
-      "type": "Damage",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "hit_count": 1,
-      "dmg_multiplier": 1.5
-    },
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-      "duration": 8,
-      "status": "Bleeding",
-      "description": "Deals damage every second; stacks intensity.",
-      "apply_count": 2
-    },
-    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
       "duration": 12,
       "status": "Bleeding",
       "description": "Deals damage every second; stacks intensity.",
-      "apply_count": 2
+      "apply_count": 3
     },
     {
       "text": "Apply Buff/Condition",
@@ -71,9 +55,21 @@
       "status": "Weakness",
       "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
       "apply_count": 1
+    },
+    {
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Blast Radius",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 240
     }
   ],
-  "description": "Throw an axe to chill your foe. Your pet's next attack inflicts weakness.",
+  "description": "Throw an axe to chill the area around your foe. Your pet's next attack inflicts weakness.",
   "icon": "https://render.guildwars2.com/file/1D6462C04F2B4EB601C8EAF8B80C23046E544AEB/103992.png",
   "type": "Weapon",
   "weapon_type": "Axe",
@@ -85,21 +81,5 @@
     "NoUnderwater"
   ],
   "id": 12490,
-  "chat_link": "[&BsowAAA=]",
-  "traited_facts": [
-    {
-      "text": "Number of Targets",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 5,
-      "requires_trait": 1066
-    },
-    {
-      "text": "Blast Radius",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
-      "value": 240,
-      "requires_trait": 1066
-    }
-  ]
+  "chat_link": "[&BsowAAA=]"
 }

@@ -15,13 +15,6 @@
       "dmg_multiplier": 1
     },
     {
-      "text": "Damage",
-      "type": "Damage",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "hit_count": 1,
-      "dmg_multiplier": 0.6
-    },
-    {
       "text": "Heat Gained",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",

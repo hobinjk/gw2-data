@@ -18,7 +18,7 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 12,
-      "dmg_multiplier": 0.14
+      "dmg_multiplier": 0.138
     },
     {
       "text": "Apply Buff/Condition",
@@ -28,6 +28,13 @@
       "status": "Vulnerability",
       "description": "Damage and condition damage taken are increased; stacks intensity.",
       "apply_count": 12
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 12,
+      "dmg_multiplier": 0.1
     }
   ],
   "description": "Phantasm. Create a phantasm that throws axes at nearby targets and creates a defensive bubble, protecting itself and allies from projectiles.",
@@ -53,8 +60,17 @@
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "requires_trait": 682,
       "hit_count": 12,
-      "dmg_multiplier": 0.161,
+      "dmg_multiplier": 0.1587,
       "overrides": 2
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 682,
+      "hit_count": 12,
+      "dmg_multiplier": 0.115,
+      "overrides": 4
     }
   ]
 }

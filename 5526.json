@@ -15,13 +15,6 @@
       "dmg_multiplier": 0.15
     },
     {
-      "text": "Stage 1 Damage",
-      "type": "Damage",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "hit_count": 3,
-      "dmg_multiplier": 0.12
-    },
-    {
       "text": "Stage 2 Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
@@ -29,25 +22,11 @@
       "dmg_multiplier": 0.3
     },
     {
-      "text": "Stage 2 Damage",
-      "type": "Damage",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "hit_count": 3,
-      "dmg_multiplier": 0.24
-    },
-    {
       "text": "Stage 3 Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 4,
       "dmg_multiplier": 0.449
-    },
-    {
-      "text": "Stage 3 Damage",
-      "type": "Damage",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "hit_count": 4,
-      "dmg_multiplier": 0.359
     },
     {
       "text": "Duration",

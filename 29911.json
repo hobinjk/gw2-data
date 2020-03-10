@@ -12,13 +12,6 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 3,
-      "dmg_multiplier": 0.7
-    },
-    {
-      "text": "Damage",
-      "type": "Damage",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "hit_count": 3,
       "dmg_multiplier": 0.84
     },
     {
@@ -73,6 +66,13 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 6,
+      "requires_trait": 1884
+    },
+    {
+      "text": "Endurance Gained",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 3,
       "requires_trait": 1884
     }
   ]

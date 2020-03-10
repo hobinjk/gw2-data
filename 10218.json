@@ -11,7 +11,7 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 12
+      "value": 10
     },
     {
       "text": "Damage",
@@ -31,9 +31,18 @@
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "distance": 240
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+      "duration": 5,
+      "status": "Crippled",
+      "description": "Movement speed decreased by 50%; stacks duration.",
+      "apply_count": 1
     }
   ],
-  "description": "Thrust your greatsword into the ground, damaging foes and removing 1 boon.",
+  "description": "Stab an illusionary greatsword through the ground to cripple foes at your targeted location.",
   "icon": "https://render.guildwars2.com/file/DA0126D7F32A973F4432E2070C0DB7252F561E90/103584.png",
   "type": "Weapon",
   "weapon_type": "Greatsword",

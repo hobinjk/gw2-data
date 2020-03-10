@@ -39,7 +39,8 @@
     "Thief"
   ],
   "slot": "Weapon_3",
-  "dual_wield": "Dagger",
+  "dual_wield": "Nothing",
+  "flip_skill": 59526,
   "initiative": 2,
   "flags": [
     "NoUnderwater"
@@ -47,6 +48,15 @@
   "id": 13111,
   "chat_link": "[&BjczAAA=]",
   "traited_facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 1299,
+      "hit_count": 1,
+      "dmg_multiplier": 0.285,
+      "overrides": 1
+    },
     {
       "text": "Healing",
       "type": "AttributeAdjust",

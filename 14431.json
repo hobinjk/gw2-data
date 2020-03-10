@@ -44,7 +44,7 @@
       "status": "Burning",
       "description": "Deals damage every second; stacks intensity.",
       "apply_count": 2,
-      "requires_trait": 1479
+      "requires_trait": 1329
     }
   ]
 }

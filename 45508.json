@@ -17,6 +17,15 @@
       "apply_count": 1
     },
     {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+      "duration": 2,
+      "status": "Stealth",
+      "description": "Currently invisible. Ends if you deal damage.",
+      "apply_count": 1
+    },
+    {
       "text": "Maximum Count",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
@@ -55,6 +64,17 @@
       "apply_count": 1,
       "requires_trait": 1136,
       "overrides": 1
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
+      "duration": 3,
+      "status": "Stealth",
+      "description": "Currently invisible. Ends if you deal damage.",
+      "apply_count": 1,
+      "requires_trait": 1136,
+      "overrides": 2
     }
   ]
 }

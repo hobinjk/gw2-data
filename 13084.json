@@ -32,7 +32,7 @@
     }
   ],
   "description": "Bleed your foe with a shot to the vitals.",
-  "icon": "https://render.guildwars2.com/file/94B67F52777EF137D2CE46DCD3167B12EF60EAE1/103772.png",
+  "icon": "https://render.guildwars2.com/file/DF44613E8041055BFB17D5F0E93C67F23EA4320D/103252.png",
   "type": "Weapon",
   "weapon_type": "Pistol",
   "professions": [
@@ -44,5 +44,16 @@
     "NoUnderwater"
   ],
   "id": 13084,
-  "chat_link": "[&BhwzAAA=]"
+  "chat_link": "[&BhwzAAA=]",
+  "traited_facts": [
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 1299,
+      "hit_count": 1,
+      "dmg_multiplier": 0.54625,
+      "overrides": 1
+    }
+  ]
 }

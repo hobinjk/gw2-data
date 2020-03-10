@@ -1,5 +1,5 @@
 {
-  "name": "Power Stab",
+  "name": "Enduring Swing",
   "facts": [
     {
       "text": "Range",
@@ -19,9 +19,15 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
       "value": 3
+    },
+    {
+      "text": "Endurance Gained",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 15
     }
   ],
-  "description": "Stab your foe and evade attacks.",
+  "description": "Slash at your foe. This attack restores endurance if it hits.",
   "icon": "https://render.guildwars2.com/file/6528ADEC67E00D9DB7FA70F7200F5EC3D83AB99C/103991.png",
   "type": "Weapon",
   "weapon_type": "Greatsword",

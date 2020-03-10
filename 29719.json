@@ -27,13 +27,6 @@
       "dmg_multiplier": 0.715
     },
     {
-      "text": "Damage",
-      "type": "Damage",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "hit_count": 1,
-      "dmg_multiplier": 0.765
-    },
-    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/592CC2A120322000BC7234B8522BBE7BAF2F4A57/1029987.png",
@@ -82,7 +75,7 @@
       "duration": 4
     }
   ],
-  "description": "Overload. Use your air magic to summon a nimbus that repeatedly strikes nearby enemies. When this ability is complete, imbue your allies with electricity and create a lingering static region that strikes enemies at the same interval. Using this skill causes the attunement to have a longer recharge.",
+  "description": "Overload. Use your air magic to summon a nimbus that repeatedly strikes nearby enemies. When this ability is complete, imbue your allies with electricity and create a lingering static region that strikes enemies at the same interval.\nUsing this skill causes the attunement to have a longer recharge.",
   "icon": "https://render.guildwars2.com/file/592CC2A120322000BC7234B8522BBE7BAF2F4A57/1029987.png",
   "type": "Profession",
   "weapon_type": "None",
@@ -101,7 +94,7 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/9D30A3547A777040C5FE730816A13932FDFDD77F/103104.png",
+      "icon": "https://render.guildwars2.com/file/79F60BF40AB3F306E7367CF3479A4163F76F3944/2261527.png",
       "duration": 4,
       "status": "Shocking Aura",
       "description": "Stun nearby attacking foes with an electric shock (only once per 2 seconds for each attacker).",

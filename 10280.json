@@ -21,6 +21,13 @@
       "dmg_multiplier": 2
     },
     {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 1
+    },
+    {
       "text": "Block Duration",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",

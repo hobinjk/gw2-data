@@ -15,13 +15,6 @@
       "dmg_multiplier": 0.8
     },
     {
-      "text": "Damage",
-      "type": "Damage",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "hit_count": 1,
-      "dmg_multiplier": 0.7
-    },
-    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",

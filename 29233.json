@@ -1,5 +1,5 @@
 {
-  "name": "Precision Strike",
+  "name": "Chilling Isolation",
   "facts": [
     {
       "text": "Range",
@@ -18,7 +18,20 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 0.7975
+      "dmg_multiplier": 0.8
+    },
+    {
+      "text": "Isolated Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 1.6
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
     },
     {
       "text": "Apply Buff/Condition",
@@ -33,7 +46,7 @@
       "text": "Number of Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 3
+      "value": 5
     },
     {
       "text": "Combo Finisher",
@@ -43,7 +56,7 @@
       "finisher_type": "Whirl"
     }
   ],
-  "description": "Strike nearby foes with precision, sending out blades that damage and chill them.",
+  "description": "Strike all nearby foes, then release a burst of mist energy that deals a second strike. The second strike deals bonus damage if it hits only one enemy.",
   "icon": "https://render.guildwars2.com/file/5201D39E6CC216A5A64E17F6E6ECB15708F103EE/1013003.png",
   "type": "Weapon",
   "weapon_type": "Sword",

@@ -45,7 +45,7 @@
       "distance": 240
     }
   ],
-  "description": "Shock a foe and inflict weakness. Gain fury for each foe hit.",
+  "description": "Shock foes around you and inflict weakness on them. Gain fury for each foe hit.",
   "icon": "https://render.guildwars2.com/file/A7F6522CC73138ECBF15A04D62634A2FFFBFD246/103374.png",
   "type": "Weapon",
   "weapon_type": "Dagger",

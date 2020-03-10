@@ -28,13 +28,6 @@
       "dmg_multiplier": 0.35
     },
     {
-      "text": "Additional Strikes",
-      "type": "Damage",
-      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "hit_count": 5,
-      "dmg_multiplier": 0.2
-    },
-    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",

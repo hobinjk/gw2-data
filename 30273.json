@@ -39,6 +39,15 @@
       "apply_count": 1
     },
     {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+      "duration": 4,
+      "status": "Slow",
+      "description": "Skills and actions are slower.",
+      "apply_count": 1
+    },
+    {
       "text": "Trigger Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
@@ -103,6 +112,17 @@
       "apply_count": 1,
       "requires_trait": 1898,
       "overrides": 4
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
+      "duration": 5,
+      "status": "Slow",
+      "description": "Skills and actions are slower.",
+      "apply_count": 1,
+      "requires_trait": 1898,
+      "overrides": 5
     }
   ]
 }

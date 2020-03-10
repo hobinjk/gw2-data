@@ -28,6 +28,15 @@
       "status": "Poisoned",
       "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
       "apply_count": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+      "duration": 7,
+      "status": "Poisoned",
+      "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+      "apply_count": 5
     }
   ],
   "description": "Fire a volley of darts that poison foes.",
@@ -54,6 +63,17 @@
       "apply_count": 5,
       "requires_trait": 1878,
       "overrides": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+      "duration": 13,
+      "status": "Poisoned",
+      "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+      "apply_count": 5,
+      "requires_trait": 1878,
+      "overrides": 4
     }
   ]
 }

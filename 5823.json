@@ -5,7 +5,7 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 10
+      "value": 8
     },
     {
       "text": "Damage",
@@ -83,15 +83,5 @@
   "slot": "Weapon_2",
   "flags": [],
   "id": 5823,
-  "chat_link": "[&Br8WAAA=]",
-  "traited_facts": [
-    {
-      "text": "Fuse Time",
-      "type": "Time",
-      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 1,
-      "requires_trait": 1944,
-      "overrides": 7
-    }
-  ]
+  "chat_link": "[&Br8WAAA=]"
 }

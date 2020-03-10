@@ -25,14 +25,14 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 2,
-      "dmg_multiplier": 0.8
+      "dmg_multiplier": 0.92
     },
     {
       "text": "3 Clones",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 3,
-      "dmg_multiplier": 0.7
+      "dmg_multiplier": 0.805
     },
     {
       "text": "Radius",
@@ -73,7 +73,7 @@
     {
       "text": "Critical Chance Increase",
       "type": "Percent",
-      "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png",
+      "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
       "percent": 25,
       "requires_trait": 2035
     },

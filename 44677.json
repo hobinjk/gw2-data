@@ -47,12 +47,12 @@
   ],
   "description": "Creates a mirror at target location. Touching the mirror shatters it, granting Mirage Cloak to you and weakening nearby foes.",
   "icon": "https://render.guildwars2.com/file/7F3FA1CD20D930E7EEC75459E7206979DD0AD016/1770518.png",
-  "type": "Elite",
+  "type": "Heal",
   "weapon_type": "None",
   "professions": [
     "Mesmer"
   ],
-  "slot": "Elite",
+  "slot": "Heal",
   "flags": [],
   "specialization": 59,
   "id": 44677,

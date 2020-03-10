@@ -40,9 +40,21 @@
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/9F19DB1D3E1629390F2360F2D866651BBC0F6155/1938788.png",
       "duration": 1
+    },
+    {
+      "text": "Clones Created",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2
+    },
+    {
+      "text": "Clones Created",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 1
     }
   ],
-  "description": "Clone. Block the next attack and counter by inflicting torment and creating two clones that cast Ether Bolt.",
+  "description": "Clone. Block the next attack, and counter by inflicting torment and creating clones that cast Ether Bolt.",
   "icon": "https://render.guildwars2.com/file/C1135A9C6D504426132CCB6200DAB6C66A756709/103766.png",
   "type": "Weapon",
   "weapon_type": "Scepter",
