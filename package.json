@@ -1,0 +1,18 @@
+{
+  "name": "gw2-data",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hobinjk/gw2-data.git"
+  },
+  "author": "hobinjk",
+  "bugs": {
+    "url": "https://github.com/hobinjk/gw2-data/issues"
+  },
+  "homepage": "https://github.com/hobinjk/gw2-data#readme"
+}
