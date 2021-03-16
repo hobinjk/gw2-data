@@ -82,6 +82,15 @@ fi
 if [ ! -e 3632.json ]; then
   curl https://api.guildwars2.com/v2/skills/3632 > 3632.json
 fi
+if [ ! -e 3633.json ]; then
+  curl https://api.guildwars2.com/v2/skills/3633 > 3633.json
+fi
+if [ ! -e 3634.json ]; then
+  curl https://api.guildwars2.com/v2/skills/3634 > 3634.json
+fi
+if [ ! -e 3644.json ]; then
+  curl https://api.guildwars2.com/v2/skills/3644 > 3644.json
+fi
 if [ ! -e 3653.json ]; then
   curl https://api.guildwars2.com/v2/skills/3653 > 3653.json
 fi
@@ -592,8 +601,20 @@ fi
 if [ ! -e 10528.json ]; then
   curl https://api.guildwars2.com/v2/skills/10528 > 10528.json
 fi
+if [ ! -e 10532.json ]; then
+  curl https://api.guildwars2.com/v2/skills/10532 > 10532.json
+fi
+if [ ! -e 10544.json ]; then
+  curl https://api.guildwars2.com/v2/skills/10544 > 10544.json
+fi
 if [ ! -e 10546.json ]; then
   curl https://api.guildwars2.com/v2/skills/10546 > 10546.json
+fi
+if [ ! -e 10549.json ]; then
+  curl https://api.guildwars2.com/v2/skills/10549 > 10549.json
+fi
+if [ ! -e 10552.json ]; then
+  curl https://api.guildwars2.com/v2/skills/10552 > 10552.json
 fi
 if [ ! -e 10607.json ]; then
   curl https://api.guildwars2.com/v2/skills/10607 > 10607.json
@@ -603,6 +624,18 @@ if [ ! -e 10610.json ]; then
 fi
 if [ ! -e 10621.json ]; then
   curl https://api.guildwars2.com/v2/skills/10621 > 10621.json
+fi
+if [ ! -e 10698.json ]; then
+  curl https://api.guildwars2.com/v2/skills/10698 > 10698.json
+fi
+if [ ! -e 10699.json ]; then
+  curl https://api.guildwars2.com/v2/skills/10699 > 10699.json
+fi
+if [ ! -e 10705.json ]; then
+  curl https://api.guildwars2.com/v2/skills/10705 > 10705.json
+fi
+if [ ! -e 10706.json ]; then
+  curl https://api.guildwars2.com/v2/skills/10706 > 10706.json
 fi
 if [ ! -e 12466.json ]; then
   curl https://api.guildwars2.com/v2/skills/12466 > 12466.json
@@ -853,6 +886,9 @@ fi
 if [ ! -e 21751.json ]; then
   curl https://api.guildwars2.com/v2/skills/21751 > 21751.json
 fi
+if [ ! -e 21761.json ]; then
+  curl https://api.guildwars2.com/v2/skills/21761 > 21761.json
+fi
 if [ ! -e 21827.json ]; then
   curl https://api.guildwars2.com/v2/skills/21827 > 21827.json
 fi
@@ -1015,6 +1051,9 @@ fi
 if [ ! -e 29706.json ]; then
   curl https://api.guildwars2.com/v2/skills/29706 > 29706.json
 fi
+if [ ! -e 29709.json ]; then
+  curl https://api.guildwars2.com/v2/skills/29709 > 29709.json
+fi
 if [ ! -e 29719.json ]; then
   curl https://api.guildwars2.com/v2/skills/29719 > 29719.json
 fi
@@ -1048,6 +1087,9 @@ fi
 if [ ! -e 29940.json ]; then
   curl https://api.guildwars2.com/v2/skills/29940 > 29940.json
 fi
+if [ ! -e 29958.json ]; then
+  curl https://api.guildwars2.com/v2/skills/29958 > 29958.json
+fi
 if [ ! -e 29965.json ]; then
   curl https://api.guildwars2.com/v2/skills/29965 > 29965.json
 fi
@@ -1062,6 +1104,9 @@ if [ ! -e 30074.json ]; then
 fi
 if [ ! -e 30088.json ]; then
   curl https://api.guildwars2.com/v2/skills/30088 > 30088.json
+fi
+if [ ! -e 30129.json ]; then
+  curl https://api.guildwars2.com/v2/skills/30129 > 30129.json
 fi
 if [ ! -e 30135.json ]; then
   curl https://api.guildwars2.com/v2/skills/30135 > 30135.json
@@ -1123,6 +1168,9 @@ fi
 if [ ! -e 30525.json ]; then
   curl https://api.guildwars2.com/v2/skills/30525 > 30525.json
 fi
+if [ ! -e 30557.json ]; then
+  curl https://api.guildwars2.com/v2/skills/30557 > 30557.json
+fi
 if [ ! -e 30614.json ]; then
   curl https://api.guildwars2.com/v2/skills/30614 > 30614.json
 fi
@@ -1141,6 +1189,9 @@ fi
 if [ ! -e 30769.json ]; then
   curl https://api.guildwars2.com/v2/skills/30769 > 30769.json
 fi
+if [ ! -e 30792.json ]; then
+  curl https://api.guildwars2.com/v2/skills/30792 > 30792.json
+fi
 if [ ! -e 30795.json ]; then
   curl https://api.guildwars2.com/v2/skills/30795 > 30795.json
 fi
@@ -1158,6 +1209,9 @@ if [ ! -e 30860.json ]; then
 fi
 if [ ! -e 30868.json ]; then
   curl https://api.guildwars2.com/v2/skills/30868 > 30868.json
+fi
+if [ ! -e 30961.json ]; then
+  curl https://api.guildwars2.com/v2/skills/30961 > 30961.json
 fi
 if [ ! -e 31167.json ]; then
   curl https://api.guildwars2.com/v2/skills/31167 > 31167.json
@@ -1707,6 +1761,9 @@ if [ ! -e 50481.json ]; then
 fi
 if [ ! -e 51389.json ]; then
   curl https://api.guildwars2.com/v2/skills/51389 > 51389.json
+fi
+if [ ! -e 51647.json ]; then
+  curl https://api.guildwars2.com/v2/skills/51647 > 51647.json
 fi
 if [ ! -e 51658.json ]; then
   curl https://api.guildwars2.com/v2/skills/51658 > 51658.json
