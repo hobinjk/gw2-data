@@ -23,9 +23,20 @@ class SkillData {
       this.data[id] = data;
     } catch (e) {
       console.log('could not fetch', id);
+      await this.loadSkillFromAPI(id);
       if (DEBUG) {
         this.failuresLog.innerHTML += `curl https://api.guildwars2.com/v2/skills/${id} > ${id}.json<br/>\n`;
       }
+    }
+  }
+
+  async loadSkillFromAPI(id) {
+    try {
+      const res = await fetch(`https://api.guildwars2.com/v2/skills/${id}`);
+      const data = await res.json();
+      this.data[id] = data;
+    } catch (e) {
+      console.log('really could not fetch', id);
     }
   }
 
