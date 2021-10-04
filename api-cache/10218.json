@@ -55,5 +55,13 @@
     "NoUnderwater"
   ],
   "id": 10218,
-  "chat_link": "[&BuonAAA=]"
+  "chat_link": "[&BuonAAA=]",
+  "traited_facts": [
+    {
+      "text": "Blade",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+      "requires_trait": 2216
+    }
+  ]
 }

@@ -26,13 +26,13 @@
       "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
       "duration": 5,
       "status": "Superspeed",
-      "description": "Movement speed is greatly increased.",
+      "description": "Movement speed is greatly increased. Maximum duration: 10s",
       "apply_count": 1
     },
     {
       "text": "Launch",
       "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/CB330EF25C62C05F1800A1C507B6AE4944551746/156653.png",
+      "icon": "https://render.guildwars2.com/file/B4087CEB5CC006172E0A09DADC5452807A0CA3F7/2440712.png",
       "distance": 360
     },
     {

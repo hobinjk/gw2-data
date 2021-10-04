@@ -24,7 +24,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-      "duration": 7,
+      "duration": 9,
       "status": "Poisoned",
       "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
       "apply_count": 5
@@ -33,7 +33,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-      "duration": 7,
+      "duration": 9,
       "status": "Poisoned",
       "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
       "apply_count": 5
@@ -57,7 +57,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
-      "duration": 9,
+      "duration": 12,
       "status": "Poisoned",
       "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
       "apply_count": 5,

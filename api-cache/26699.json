@@ -18,7 +18,7 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 0.5702
+      "dmg_multiplier": 0.38
     },
     {
       "text": "Damage",
@@ -40,7 +40,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
-      "duration": 5,
+      "duration": 3,
       "status": "Might",
       "description": "Increased outgoing damage; stacks intensity.",
       "apply_count": 1

@@ -21,12 +21,6 @@
       "dmg_multiplier": 0.8
     },
     {
-      "text": "Combo Field",
-      "type": "ComboField",
-      "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
-      "field_type": "Lightning"
-    },
-    {
       "text": "Stun",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
@@ -82,7 +76,7 @@
       "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
       "duration": 1,
       "requires_trait": 2052,
-      "overrides": 4
+      "overrides": 3
     }
   ]
 }

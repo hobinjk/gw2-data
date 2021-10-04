@@ -24,7 +24,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
-      "duration": 2,
+      "duration": 5,
       "status": "Immobile",
       "description": "Unable to move; stacks duration.",
       "apply_count": 1
@@ -36,7 +36,7 @@
       "duration": 6,
       "status": "Vulnerability",
       "description": "Damage and condition damage taken are increased; stacks intensity.",
-      "apply_count": 3
+      "apply_count": 5
     }
   ],
   "description": "Immobilize and make your foe vulnerable with ethereal chains.",

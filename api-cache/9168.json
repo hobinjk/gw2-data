@@ -26,11 +26,24 @@
       "value": 3
     },
     {
+      "text": "Casts",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+      "value": 2
+    },
+    {
       "text": "Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 4,
-      "dmg_multiplier": 0.62
+      "dmg_multiplier": 0.72
+    },
+    {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 4,
+      "dmg_multiplier": 0.54
     },
     {
       "text": "Apply Buff/Condition",
@@ -105,6 +118,14 @@
       "value": 4,
       "requires_trait": 635,
       "overrides": 3
+    },
+    {
+      "text": "Casts",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+      "value": 3,
+      "requires_trait": 635,
+      "overrides": 4
     }
   ]
 }

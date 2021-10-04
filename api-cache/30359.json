@@ -48,7 +48,7 @@
     {
       "text": "Pull",
       "type": "Number",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "icon": "https://render.guildwars2.com/file/D5F6EBC4630F0E10F3DDB7A6DBB63592CD4B00BC/2440717.png",
       "value": 240
     },
     {
@@ -60,13 +60,13 @@
     {
       "text": "Knockdown",
       "type": "Time",
-      "icon": "https://render.guildwars2.com/file/61A6A8A161FB7124336A6ED1FBAF9B1E030166A6/156664.png",
+      "icon": "https://render.guildwars2.com/file/7632087376D36B0D100F1B07BE53F154BC337D7C/2440716.png",
       "duration": 1
     },
     {
       "text": "Float",
       "type": "Time",
-      "icon": "https://render.guildwars2.com/file/BAEECCBD49E913DBFED79C767816D769C6B1906B/156660.png",
+      "icon": "https://render.guildwars2.com/file/18F6E20EB4F7A812FD2C13723F130166BC54C6D1/2440713.png",
       "duration": 1
     },
     {

@@ -44,7 +44,7 @@
       "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
       "duration": 1,
       "status": "Stun",
-      "description": "Unable to act; stacks duration.",
+      "description": "Unable to act.",
       "apply_count": 1
     },
     {

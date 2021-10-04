@@ -53,7 +53,7 @@
       "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
       "duration": 1,
       "status": "Protection",
-      "description": "Incoming damage decreased by 33%; stacks duration.",
+      "description": "Incoming strike damage decreased by 33%; stacks duration.",
       "apply_count": 1
     },
     {

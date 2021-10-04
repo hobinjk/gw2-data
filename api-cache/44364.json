@@ -105,10 +105,10 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/27F233F7D4CE4E9EFE040E3D665B7B0643557B6E/102883.png",
+      "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
       "duration": 3,
-      "status": "Retaliation",
-      "description": "Reflect incoming damage back to its source; stacks duration.",
+      "status": "Resolution",
+      "description": "Incoming condition damage decreased by 33%; stacks duration.",
       "apply_count": 1,
       "requires_trait": 604
     },
