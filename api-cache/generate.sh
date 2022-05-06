@@ -1,3 +1,100 @@
+[
+  'berserker_condi.json',
+  'berserker_condi_banners.json',
+  'berserker_power.json',
+  'berserker_power_banners.json',
+  'berserker_power_banners_tactics.json',
+  'bladesworn_banners.json',
+  'bladesworn_power.json',
+  'catalyst_power.json',
+  'catalyst_power_quick.json',
+  'chrono_condi.json',
+  'chrono_condi_boon.json',
+  'chrono_power_boon.json',
+  'chrono_power_focus.json',
+  'chrono_power_gs.json',
+  'chrono_power_pistol.json',
+  'chrono_power_quick_focus.json',
+  'chrono_power_quick_gs.json',
+  'daredevil_condi.json',
+  'daredevil_power.json',
+  'deadeye_condi.json',
+  'deadeye_rifle.json',
+  'dragonhunter_lb.json',
+  'dragonhunter_scepter.json',
+  'dragonhunter_sword.json',
+  'dragonhunter_sword_virtues.json',
+  'firebrand_condi.json',
+  'firebrand_condi_aow.json',
+  'firebrand_condi_gs.json',
+  'firebrand_condi_quick.json',
+  'firebrand_power_quick.json',
+  'generate.js',
+  'generate.sh',
+  'guardian.json',
+  'harbinger_condi.json',
+  'harbinger_condi_quick.json',
+  'herald_boon.json',
+  'herald_condi.json',
+  'holo_condi.json',
+  'holo_power_rifle.json',
+  'holo_power_sword.json',
+  'holo_power_sword_pbm.json',
+  'mechanist_condi.json',
+  'mechanist_condi_alac.json',
+  'mechanist_condi_signets.json',
+  'mechanist_power_alac.json',
+  'mirage.json',
+  'mirage_staff.json',
+  'mirage_staxe.json',
+  'reaper.json',
+  'reaper_condi.json',
+  'renegade_alac.json',
+  'renegade_deva_kalla.json',
+  'renegade_kalla.json',
+  'renegade_power.json',
+  'renegade_shiro.json',
+  'scourge.json',
+  'scrapper.json',
+  'scrapper_quick.json',
+  'soulbeast_condi.json',
+  'soulbeast_condi_sb.json',
+  'soulbeast_hybrid.json',
+  'soulbeast_power_gazelle_gs.json',
+  'soulbeast_power_gazelle_lb.json',
+  'soulbeast_power_moa_gs.json',
+  'soulbeast_power_moa_lb.json',
+  'specter_condi.json',
+  'specter_condi_alac.json',
+  'spellbreaker_banners.json',
+  'tempest_condi_ele.json',
+  'tempest_condi_gos.json',
+  'tempest_power.json',
+  'untamed_power.json',
+  'vindicator_power_gs.json',
+  'vindicator_power_sword.json',
+  'virtuoso_condi.json',
+  'virtuoso_focus.json',
+  'virtuoso_gs.json',
+  'weaver_condi_dagger.json',
+  'weaver_condi_scepter.json',
+  'weaver_condi_sword.json',
+  'weaver_condi_sword_elementals.json',
+  'weaver_hybrid_fa.json',
+  'weaver_hybrid_fa_elementals.json',
+  'weaver_power_btth_large.json',
+  'weaver_power_btth_large_ab.json',
+  'weaver_power_btth_small.json',
+  'weaver_power_fa_large.json',
+  'weaver_power_fa_small.json',
+  'weaver_power_staff.json',
+  'willbender_condi_alac_sword.json',
+  'willbender_condi_gs.json',
+  'willbender_condi_sword.json',
+  'willbender_power_alac.json',
+  'willbender_power_focus.json',
+  'willbender_power_focus_virtues.json'
+]
 if [ ! -e 717.json ]; then
   curl https://api.guildwars2.com/v2/skills/717 > 717.json
 fi
@@ -415,6 +512,9 @@ fi
 if [ ! -e 9098.json ]; then
   curl https://api.guildwars2.com/v2/skills/9098 > 9098.json
 fi
+if [ ! -e 9099.json ]; then
+  curl https://api.guildwars2.com/v2/skills/9099 > 9099.json
+fi
 if [ ! -e 9100.json ]; then
   curl https://api.guildwars2.com/v2/skills/9100 > 9100.json
 fi
@@ -592,6 +692,9 @@ fi
 if [ ! -e 10233.json ]; then
   curl https://api.guildwars2.com/v2/skills/10233 > 10233.json
 fi
+if [ ! -e 10234.json ]; then
+  curl https://api.guildwars2.com/v2/skills/10234 > 10234.json
+fi
 if [ ! -e 10235.json ]; then
   curl https://api.guildwars2.com/v2/skills/10235 > 10235.json
 fi
@@ -600,6 +703,12 @@ if [ ! -e 10236.json ]; then
 fi
 if [ ! -e 10243.json ]; then
   curl https://api.guildwars2.com/v2/skills/10243 > 10243.json
+fi
+if [ ! -e 10246.json ]; then
+  curl https://api.guildwars2.com/v2/skills/10246 > 10246.json
+fi
+if [ ! -e 10247.json ]; then
+  curl https://api.guildwars2.com/v2/skills/10247 > 10247.json
 fi
 if [ ! -e 10266.json ]; then
   curl https://api.guildwars2.com/v2/skills/10266 > 10266.json
@@ -790,6 +899,9 @@ fi
 if [ ! -e 12537.json ]; then
   curl https://api.guildwars2.com/v2/skills/12537 > 12537.json
 fi
+if [ ! -e 12554.json ]; then
+  curl https://api.guildwars2.com/v2/skills/12554 > 12554.json
+fi
 if [ ! -e 12633.json ]; then
   curl https://api.guildwars2.com/v2/skills/12633 > 12633.json
 fi
@@ -921,6 +1033,9 @@ if [ ! -e 14449.json ]; then
 fi
 if [ ! -e 14450.json ]; then
   curl https://api.guildwars2.com/v2/skills/14450 > 14450.json
+fi
+if [ ! -e 14459.json ]; then
+  curl https://api.guildwars2.com/v2/skills/14459 > 14459.json
 fi
 if [ ! -e 14484.json ]; then
   curl https://api.guildwars2.com/v2/skills/14484 > 14484.json
@@ -1456,6 +1571,9 @@ fi
 if [ ! -e 31864.json ]; then
   curl https://api.guildwars2.com/v2/skills/31864 > 31864.json
 fi
+if [ ! -e 31970.json ]; then
+  curl https://api.guildwars2.com/v2/skills/31970 > 31970.json
+fi
 if [ ! -e 32200.json ]; then
   curl https://api.guildwars2.com/v2/skills/32200 > 32200.json
 fi
@@ -1669,6 +1787,9 @@ fi
 if [ ! -e 41858.json ]; then
   curl https://api.guildwars2.com/v2/skills/41858 > 41858.json
 fi
+if [ ! -e 41864.json ]; then
+  curl https://api.guildwars2.com/v2/skills/41864 > 41864.json
+fi
 if [ ! -e 41897.json ]; then
   curl https://api.guildwars2.com/v2/skills/41897 > 41897.json
 fi
@@ -1807,6 +1928,9 @@ fi
 if [ ! -e 43708.json ]; then
   curl https://api.guildwars2.com/v2/skills/43708 > 43708.json
 fi
+if [ ! -e 43734.json ]; then
+  curl https://api.guildwars2.com/v2/skills/43734 > 43734.json
+fi
 if [ ! -e 43761.json ]; then
   curl https://api.guildwars2.com/v2/skills/43761 > 43761.json
 fi
@@ -1941,6 +2065,9 @@ if [ ! -e 45243.json ]; then
 fi
 if [ ! -e 45259.json ]; then
   curl https://api.guildwars2.com/v2/skills/45259 > 45259.json
+fi
+if [ ! -e 45262.json ]; then
+  curl https://api.guildwars2.com/v2/skills/45262 > 45262.json
 fi
 if [ ! -e 45267.json ]; then
   curl https://api.guildwars2.com/v2/skills/45267 > 45267.json
@@ -2152,9 +2279,6 @@ fi
 if [ ! -e 57187.json ]; then
   curl https://api.guildwars2.com/v2/skills/57187 > 57187.json
 fi
-if [ ! -e 57241.json ]; then
-  curl https://api.guildwars2.com/v2/skills/57241 > 57241.json
-fi
 if [ ! -e 57244.json ]; then
   curl https://api.guildwars2.com/v2/skills/57244 > 57244.json
 fi
@@ -2233,6 +2357,12 @@ fi
 if [ ! -e 62567.json ]; then
   curl https://api.guildwars2.com/v2/skills/62567 > 62567.json
 fi
+if [ ! -e 62586.json ]; then
+  curl https://api.guildwars2.com/v2/skills/62586 > 62586.json
+fi
+if [ ! -e 62597.json ]; then
+  curl https://api.guildwars2.com/v2/skills/62597 > 62597.json
+fi
 if [ ! -e 62602.json ]; then
   curl https://api.guildwars2.com/v2/skills/62602 > 62602.json
 fi
@@ -2244,6 +2374,9 @@ if [ ! -e 62608.json ]; then
 fi
 if [ ! -e 62611.json ]; then
   curl https://api.guildwars2.com/v2/skills/62611 > 62611.json
+fi
+if [ ! -e 62615.json ]; then
+  curl https://api.guildwars2.com/v2/skills/62615 > 62615.json
 fi
 if [ ! -e 62616.json ]; then
   curl https://api.guildwars2.com/v2/skills/62616 > 62616.json
@@ -2311,8 +2444,8 @@ fi
 if [ ! -e 62716.json ]; then
   curl https://api.guildwars2.com/v2/skills/62716 > 62716.json
 fi
-if [ ! -e 62725.json ]; then
-  curl https://api.guildwars2.com/v2/skills/62725 > 62725.json
+if [ ! -e 62723.json ]; then
+  curl https://api.guildwars2.com/v2/skills/62723 > 62723.json
 fi
 if [ ! -e 62730.json ]; then
   curl https://api.guildwars2.com/v2/skills/62730 > 62730.json
@@ -2397,6 +2530,9 @@ if [ ! -e 62847.json ]; then
 fi
 if [ ! -e 62861.json ]; then
   curl https://api.guildwars2.com/v2/skills/62861 > 62861.json
+fi
+if [ ! -e 62862.json ]; then
+  curl https://api.guildwars2.com/v2/skills/62862 > 62862.json
 fi
 if [ ! -e 62865.json ]; then
   curl https://api.guildwars2.com/v2/skills/62865 > 62865.json
@@ -2485,23 +2621,44 @@ fi
 if [ ! -e 63068.json ]; then
   curl https://api.guildwars2.com/v2/skills/63068 > 63068.json
 fi
+if [ ! -e 63075.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63075 > 63075.json
+fi
 if [ ! -e 63077.json ]; then
   curl https://api.guildwars2.com/v2/skills/63077 > 63077.json
+fi
+if [ ! -e 63082.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63082 > 63082.json
 fi
 if [ ! -e 63113.json ]; then
   curl https://api.guildwars2.com/v2/skills/63113 > 63113.json
 fi
+if [ ! -e 63118.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63118 > 63118.json
+fi
 if [ ! -e 63121.json ]; then
   curl https://api.guildwars2.com/v2/skills/63121 > 63121.json
+fi
+if [ ! -e 63131.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63131 > 63131.json
 fi
 if [ ! -e 63134.json ]; then
   curl https://api.guildwars2.com/v2/skills/63134 > 63134.json
 fi
+if [ ! -e 63136.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63136 > 63136.json
+fi
 if [ ! -e 63141.json ]; then
   curl https://api.guildwars2.com/v2/skills/63141 > 63141.json
 fi
+if [ ! -e 63145.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63145 > 63145.json
+fi
 if [ ! -e 63155.json ]; then
   curl https://api.guildwars2.com/v2/skills/63155 > 63155.json
+fi
+if [ ! -e 63157.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63157 > 63157.json
 fi
 if [ ! -e 63160.json ]; then
   curl https://api.guildwars2.com/v2/skills/63160 > 63160.json
@@ -2521,8 +2678,17 @@ fi
 if [ ! -e 63182.json ]; then
   curl https://api.guildwars2.com/v2/skills/63182 > 63182.json
 fi
+if [ ! -e 63185.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63185 > 63185.json
+fi
 if [ ! -e 63186.json ]; then
   curl https://api.guildwars2.com/v2/skills/63186 > 63186.json
+fi
+if [ ! -e 63201.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63201 > 63201.json
+fi
+if [ ! -e 63222.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63222 > 63222.json
 fi
 if [ ! -e 63234.json ]; then
   curl https://api.guildwars2.com/v2/skills/63234 > 63234.json
@@ -2557,6 +2723,9 @@ fi
 if [ ! -e 63292.json ]; then
   curl https://api.guildwars2.com/v2/skills/63292 > 63292.json
 fi
+if [ ! -e 63296.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63296 > 63296.json
+fi
 if [ ! -e 63298.json ]; then
   curl https://api.guildwars2.com/v2/skills/63298 > 63298.json
 fi
@@ -2566,14 +2735,26 @@ fi
 if [ ! -e 63314.json ]; then
   curl https://api.guildwars2.com/v2/skills/63314 > 63314.json
 fi
+if [ ! -e 63317.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63317 > 63317.json
+fi
 if [ ! -e 63322.json ]; then
   curl https://api.guildwars2.com/v2/skills/63322 > 63322.json
 fi
 if [ ! -e 63323.json ]; then
   curl https://api.guildwars2.com/v2/skills/63323 > 63323.json
 fi
+if [ ! -e 63330.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63330 > 63330.json
+fi
 if [ ! -e 63334.json ]; then
   curl https://api.guildwars2.com/v2/skills/63334 > 63334.json
+fi
+if [ ! -e 63335.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63335 > 63335.json
+fi
+if [ ! -e 63352.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63352 > 63352.json
 fi
 if [ ! -e 63362.json ]; then
   curl https://api.guildwars2.com/v2/skills/63362 > 63362.json
@@ -2596,6 +2777,9 @@ fi
 if [ ! -e 63433.json ]; then
   curl https://api.guildwars2.com/v2/skills/63433 > 63433.json
 fi
+if [ ! -e 63438.json ]; then
+  curl https://api.guildwars2.com/v2/skills/63438 > 63438.json
+fi
 if [ ! -e 63456.json ]; then
   curl https://api.guildwars2.com/v2/skills/63456 > 63456.json
 fi
@@ -2605,6 +2789,54 @@ fi
 if [ ! -e 65001.json ]; then
   curl https://api.guildwars2.com/v2/skills/65001 > 65001.json
 fi
+if [ ! -e 65769.json ]; then
+  curl https://api.guildwars2.com/v2/skills/65769 > 65769.json
+fi
 if [ ! -e 66503.json ]; then
   curl https://api.guildwars2.com/v2/skills/66503 > 66503.json
+fi
+if [ ! -e -2.json ]; then
+  curl https://api.guildwars2.com/v2/skills/-2 > -2.json
+fi
+if [ ! -e LuckParser.Parser.ParsedData.SkillItem.json ]; then
+  curl https://api.guildwars2.com/v2/skills/LuckParser.Parser.ParsedData.SkillItem > LuckParser.Parser.ParsedData.SkillItem.json
+fi
+if [ ! -e -17.json ]; then
+  curl https://api.guildwars2.com/v2/skills/-17 > -17.json
+fi
+if [ ! -e -11.json ]; then
+  curl https://api.guildwars2.com/v2/skills/-11 > -11.json
+fi
+if [ ! -e -13.json ]; then
+  curl https://api.guildwars2.com/v2/skills/-13 > -13.json
+fi
+if [ ! -e -6.json ]; then
+  curl https://api.guildwars2.com/v2/skills/-6 > -6.json
+fi
+if [ ! -e -14.json ]; then
+  curl https://api.guildwars2.com/v2/skills/-14 > -14.json
+fi
+if [ ! -e -7.json ]; then
+  curl https://api.guildwars2.com/v2/skills/-7 > -7.json
+fi
+if [ ! -e -8.json ]; then
+  curl https://api.guildwars2.com/v2/skills/-8 > -8.json
+fi
+if [ ! -e -15.json ]; then
+  curl https://api.guildwars2.com/v2/skills/-15 > -15.json
+fi
+if [ ! -e -16.json ]; then
+  curl https://api.guildwars2.com/v2/skills/-16 > -16.json
+fi
+if [ ! -e -5.json ]; then
+  curl https://api.guildwars2.com/v2/skills/-5 > -5.json
+fi
+if [ ! -e -10.json ]; then
+  curl https://api.guildwars2.com/v2/skills/-10 > -10.json
+fi
+if [ ! -e -12.json ]; then
+  curl https://api.guildwars2.com/v2/skills/-12 > -12.json
+fi
+if [ ! -e GW2EIParser.Parser.ParsedData.SkillItem.json ]; then
+  curl https://api.guildwars2.com/v2/skills/GW2EIParser.Parser.ParsedData.SkillItem > GW2EIParser.Parser.ParsedData.SkillItem.json
 fi
