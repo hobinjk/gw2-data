@@ -65,5 +65,17 @@
   "chat_link": "[&BjesAAA=]",
   "categories": [
     "StealthAttack"
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+      "duration": 3,
+      "status": "Weakness",
+      "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 1284
+    }
   ]
 }

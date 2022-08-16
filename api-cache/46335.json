@@ -17,13 +17,13 @@
     {
       "text": "Knockback",
       "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/9A6A02DCA260929CD14B4A4402266006981FF51B/648509.png",
+      "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
       "distance": 450
     },
     {
       "text": "Launch",
       "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/CB330EF25C62C05F1800A1C507B6AE4944551746/156653.png",
+      "icon": "https://render.guildwars2.com/file/B4087CEB5CC006172E0A09DADC5452807A0CA3F7/2440712.png",
       "distance": 450
     },
     {
@@ -64,18 +64,5 @@
   "chat_link": "[&Bv+0AAA=]",
   "categories": [
     "Cantrip"
-  ],
-  "traited_facts": [
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
-      "duration": 4,
-      "status": "Stealth",
-      "description": "Currently invisible. Ends if you deal damage.",
-      "apply_count": 1,
-      "requires_trait": 1136,
-      "overrides": 6
-    }
   ]
 }

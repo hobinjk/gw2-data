@@ -24,7 +24,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-      "duration": 3,
+      "duration": 2,
       "status": "Burning",
       "description": "Deals damage every second; stacks intensity.",
       "apply_count": 1

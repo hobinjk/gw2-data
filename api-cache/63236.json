@@ -5,7 +5,7 @@
       "text": "Range",
       "type": "Range",
       "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
-      "value": 900
+      "value": 600
     },
     {
       "text": "Recharge",
@@ -32,6 +32,12 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
       "value": 5
+    },
+    {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 600
     },
     {
       "text": "Missile Explosion Radius",
@@ -61,7 +67,7 @@
       "apply_count": 1
     }
   ],
-  "description": "Mech Command. Your mech jets into the air and fires a missile at each foe in an arc in front of it before crashing down and dealing additional damage to anything caught underfoot.",
+  "description": "Mech Command. Your mech jets into the air and fires a missile at each nearby foe before crashing down and dealing additional damage to anything caught underfoot.",
   "icon": "https://render.guildwars2.com/file/F5B22BC2DCE815FD124A1B25646606633A68D1F5/2503686.png",
   "flags": [],
   "id": 63236,

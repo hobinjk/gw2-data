@@ -11,7 +11,7 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 9
+      "value": 6
     },
     {
       "text": "Maximum Damage",
@@ -50,16 +50,31 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
       "value": 5
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+      "duration": 8,
+      "status": "Might",
+      "description": "Increased outgoing damage; stacks intensity.",
+      "apply_count": 5
+    },
+    {
+      "text": "Boon Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 360
     }
   ],
-  "description": "Fire several shards of shrapnel that inflict more damage the closer you are to foes.",
+  "description": "Fire several shards of shrapnel that inflict more damage the closer you are to foes. You and nearby allies gain might.",
   "icon": "https://render.guildwars2.com/file/FC0C5A43332CBCEEFB32EF5331F89650FC0AF310/103111.png",
   "type": "Weapon",
   "weapon_type": "Rifle",
   "professions": [
     "Engineer"
   ],
-  "slot": "Weapon_3",
+  "slot": "Weapon_2",
   "flags": [
     "NoUnderwater"
   ],

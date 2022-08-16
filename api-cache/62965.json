@@ -11,7 +11,7 @@
       "text": "Damage Increase",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
-      "percent": 15
+      "percent": 10
     },
     {
       "text": "Apply Buff/Condition",

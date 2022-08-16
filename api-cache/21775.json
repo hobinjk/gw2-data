@@ -57,10 +57,10 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
-      "duration": 5,
-      "status": "Regeneration",
-      "description": "Gain health every second; stacks duration.",
+      "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+      "duration": 4,
+      "status": "Alacrity",
+      "description": "Skills recharge faster.",
       "apply_count": 1,
       "requires_trait": 1038
     }

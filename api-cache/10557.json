@@ -41,10 +41,22 @@
       "value": 5
     },
     {
+      "text": "Number of Allied Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 4
+    },
+    {
       "text": "Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "distance": 180
+    },
+    {
+      "text": "Healing Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 360
     },
     {
       "text": "Life Siphon Damage",
@@ -61,7 +73,7 @@
       "target": "Healing"
     }
   ],
-  "description": "Gain swiftness and summon a swarm of locusts that siphon health to you from nearby foes.",
+  "description": "Gain swiftness and summon a swarm of locusts that siphons health to you and your allies from nearby foes.",
   "icon": "https://render.guildwars2.com/file/1E2D4A00340B96CAE9A1E19F2B07B35A01741B14/103809.png",
   "type": "Weapon",
   "weapon_type": "Warhorn",
@@ -109,7 +121,7 @@
       "value": 55,
       "requires_trait": 799,
       "target": "Power",
-      "overrides": 7
+      "overrides": 9
     },
     {
       "text": "Life Siphon Healing",
@@ -118,7 +130,7 @@
       "value": 55,
       "requires_trait": 799,
       "target": "Healing",
-      "overrides": 8
+      "overrides": 10
     }
   ]
 }

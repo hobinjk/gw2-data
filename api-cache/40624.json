@@ -20,14 +20,14 @@
       "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
       "duration": 2,
       "status": "Fury",
-      "description": "Critical Chance increased by 20%; stacks duration.",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1
     },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
-      "duration": 3,
+      "duration": 2,
       "status": "Crippled",
       "description": "Movement speed decreased by 50%; stacks duration.",
       "apply_count": 1
@@ -99,7 +99,7 @@
       "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
       "duration": 1,
       "status": "Daze",
-      "description": "Unable to activate skills; stacks duration.",
+      "description": "Unable to activate skills.",
       "apply_count": 1,
       "requires_trait": 2075
     },

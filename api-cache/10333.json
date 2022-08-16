@@ -31,7 +31,7 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 0.6
+      "dmg_multiplier": 0.75
     },
     {
       "text": "Minimum Damage",
@@ -117,6 +117,12 @@
       "value": 6,
       "requires_trait": 686,
       "overrides": 9
+    },
+    {
+      "text": "Blade",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+      "requires_trait": 2216
     }
   ]
 }

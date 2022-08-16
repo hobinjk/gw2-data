@@ -16,7 +16,7 @@
     {
       "text": "Knockback Distance",
       "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/9A6A02DCA260929CD14B4A4402266006981FF51B/648509.png",
+      "icon": "https://render.guildwars2.com/file/400B7FD39724FBD700B94AB8AB52B5B9167646F4/2440715.png",
       "distance": 400
     },
     {
@@ -29,10 +29,10 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
-      "duration": 2,
+      "duration": 5,
       "status": "Burning",
       "description": "Deals damage every second; stacks intensity.",
-      "apply_count": 2
+      "apply_count": 1
     }
   ],
   "description": "Push back foes and projectiles with a hot-air blast, burning foes that are already on fire.",

@@ -11,7 +11,7 @@
       "text": "Recharge",
       "type": "Recharge",
       "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
-      "value": 180
+      "value": 120
     },
     {
       "text": "Unblockable",
@@ -23,7 +23,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
-      "duration": 2,
+      "duration": 1,
       "status": "Quickness",
       "description": "Skills and actions are faster.",
       "apply_count": 1
@@ -32,7 +32,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/F60D1EF5271D7B9319610855676D320CD25F01C6/961397.png",
-      "duration": 2,
+      "duration": 1,
       "status": "Slow",
       "description": "Skills and actions are slower.",
       "apply_count": 1
@@ -41,13 +41,13 @@
       "text": "Duration",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 10
+      "duration": 5
     },
     {
       "text": "Interval",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
-      "duration": 2
+      "duration": 1
     },
     {
       "text": "Radius",
@@ -59,7 +59,7 @@
       "text": "Number of Targets",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 10
+      "value": 5
     },
     {
       "text": "Combo Field",

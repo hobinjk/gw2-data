@@ -49,17 +49,6 @@
   "chat_link": "[&BjBAAAA=]",
   "traited_facts": [
     {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
-      "duration": 4,
-      "status": "Stealth",
-      "description": "Currently invisible. Ends if you deal damage.",
-      "apply_count": 1,
-      "requires_trait": 1136,
-      "overrides": 2
-    },
-    {
       "text": "Healing",
       "type": "AttributeAdjust",
       "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",

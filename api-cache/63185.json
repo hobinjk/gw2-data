@@ -21,7 +21,7 @@
       "dmg_multiplier": 1
     },
     {
-      "text": "Stun",
+      "text": "Bonus Defiance Damage",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
       "duration": 1
@@ -53,7 +53,7 @@
       "apply_count": 1
     }
   ],
-  "description": "Your mech launches an explosive fist that detonates on hit. This skill is only used when you activate Rocket Fist Prototype with a mace.",
+  "description": "Your mech launches an explosive fist that detonates on hit, dealing defiance damage to enemies with active defiance bars. This skill is only used when you activate Skill 3 on your weapon.",
   "icon": "https://render.guildwars2.com/file/02DA2C9899B63DE522020824C67D05951F40CA4A/2503679.png",
   "flags": [],
   "id": 63185,

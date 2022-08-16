@@ -51,7 +51,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
-      "duration": 5,
+      "duration": 3,
       "status": "Vulnerability",
       "description": "Damage and condition damage taken are increased; stacks intensity.",
       "apply_count": 6
@@ -60,7 +60,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-      "duration": 5,
+      "duration": 3,
       "status": "Confusion",
       "description": "Damage received on skill activation; stacks intensity.",
       "apply_count": 6

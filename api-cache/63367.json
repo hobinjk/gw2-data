@@ -27,7 +27,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/289AA0A4644F0E044DED3D3F39CED958E1DDFF53/102880.png",
-      "duration": 10,
+      "duration": 5,
       "status": "Confusion",
       "description": "Damage received on skill activation; stacks intensity.",
       "apply_count": 2

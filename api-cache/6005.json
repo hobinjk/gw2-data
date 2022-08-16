@@ -49,6 +49,11 @@
       "value": 5
     },
     {
+      "text": "Explosion",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png"
+    },
+    {
       "text": "Combo Finisher",
       "type": "ComboFinisher",
       "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",

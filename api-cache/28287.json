@@ -18,18 +18,18 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-      "duration": 6,
+      "duration": 5,
       "status": "Torment",
-      "description": "Deals damage every second. Deals additional damage to moving foes. Stacks intensity.",
+      "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
       "apply_count": 1
     },
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-      "duration": 6,
+      "duration": 5,
       "status": "Torment",
-      "description": "Deals damage every second. Deals additional damage to moving foes. Stacks intensity.",
+      "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
       "apply_count": 2
     },
     {
@@ -54,9 +54,9 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-      "duration": 6,
+      "duration": 5,
       "status": "Torment",
-      "description": "Deals damage every second. Deals additional damage to moving foes. Stacks intensity.",
+      "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
       "apply_count": 1
     },
     {
@@ -89,7 +89,17 @@
       "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
       "duration": 2,
       "status": "Resistance",
-      "description": "Conditions currently on you are ineffective; stacks duration.",
+      "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 1789
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+      "duration": 1,
+      "status": "Resistance",
+      "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
       "apply_count": 1,
       "requires_trait": 1789
     }

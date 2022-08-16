@@ -40,11 +40,6 @@
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "distance": 240
-    },
-    {
-      "text": "Explosion",
-      "type": "NoData",
-      "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png"
     }
   ],
   "description": "Mech Command. Order your mech to dash at a target, punching with an explosive strike that weakens enemies near the point of impact.",

@@ -24,7 +24,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
-      "duration": 6,
+      "duration": 5,
       "status": "Bleeding",
       "description": "Deals damage every second; stacks intensity.",
       "apply_count": 5
@@ -33,16 +33,16 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
-      "duration": 1,
+      "duration": 2,
       "status": "Torment",
-      "description": "Deals damage every second. Deals additional damage to moving foes. Stacks intensity.",
+      "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
       "apply_count": 1
     },
     {
       "text": "Torment Duration per Malice",
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
-      "duration": 1
+      "duration": 2
     },
     {
       "text": "Combo Finisher",
@@ -52,7 +52,7 @@
       "finisher_type": "Projectile"
     }
   ],
-  "description": "Stealth Attack. Sneak attack with a rapid fire from your pistol that makes your foe bleed. Consumes all malice when striking your mark to inflict additional torment per bullet used.",
+  "description": "Stealth Attack. Sneak attack with a rapid fire from your pistol that makes your foe bleed. Consumes all malice when striking your mark to inflict torment with a duration equal to twice the consumed malice.",
   "icon": "https://render.guildwars2.com/file/13ED5F3F5ACD4FC19452911309C4E46E46731671/2010290.png",
   "type": "Weapon",
   "weapon_type": "Pistol",
@@ -68,5 +68,17 @@
   "chat_link": "[&BiLFAAA=]",
   "categories": [
     "StealthAttack"
+  ],
+  "traited_facts": [
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+      "duration": 3,
+      "status": "Weakness",
+      "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 1284
+    }
   ]
 }

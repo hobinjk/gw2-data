@@ -29,13 +29,13 @@
     {
       "text": "Stun",
       "type": "Time",
-      "icon": "https://render.guildwars2.com/file/143F46DEF466062F01C52B69922FFCEF73DCA801/156668.png",
+      "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
       "duration": 3
     },
     {
       "text": "Self-Stun",
       "type": "Time",
-      "icon": "https://render.guildwars2.com/file/143F46DEF466062F01C52B69922FFCEF73DCA801/156668.png",
+      "icon": "https://render.guildwars2.com/file/1999B9DB355005D2DD19F66DFFBAA6D466057508/522727.png",
       "duration": 1
     },
     {

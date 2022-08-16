@@ -70,6 +70,12 @@
       "value": 3
     },
     {
+      "text": "Maximum Count",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+      "value": 2
+    },
+    {
       "text": "Conditions Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",

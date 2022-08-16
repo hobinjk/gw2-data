@@ -47,7 +47,7 @@
       "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
       "duration": 8,
       "status": "Fury",
-      "description": "Critical Chance increased by 20%; stacks duration.",
+      "description": "Critical chance increased; stacks duration.",
       "apply_count": 1
     },
     {
@@ -71,18 +71,5 @@
   "flags": [],
   "specialization": 58,
   "id": 40888,
-  "chat_link": "[&BrifAAA=]",
-  "traited_facts": [
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
-      "duration": 4,
-      "status": "Stealth",
-      "description": "Currently invisible. Ends if you deal damage.",
-      "apply_count": 1,
-      "requires_trait": 1136,
-      "overrides": 3
-    }
-  ]
+  "chat_link": "[&BrifAAA=]"
 }

@@ -21,6 +21,13 @@
       "dmg_multiplier": 0.5
     },
     {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 3,
+      "dmg_multiplier": 0.5
+    },
+    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
@@ -88,6 +95,15 @@
       "overrides": 2
     },
     {
+      "text": "Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 1657,
+      "hit_count": 3,
+      "dmg_multiplier": 0.3745,
+      "overrides": 3
+    },
+    {
       "text": "Conditions Removed",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
@@ -100,7 +116,7 @@
       "icon": "https://render.guildwars2.com/file/A795EE78B8DAA836F3C0650CFC037BB71D3517BA/1012816.png",
       "duration": 15,
       "status": "Berserker's Power",
-      "description": "7% damage per stack.",
+      "description": "7% increased strike damage per stack.",
       "apply_count": 1,
       "requires_trait": 1437
     }

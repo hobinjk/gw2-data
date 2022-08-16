@@ -12,14 +12,14 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 3,
-      "dmg_multiplier": 0.335
+      "dmg_multiplier": 0.367
     },
     {
       "text": "Minimum Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 3,
-      "dmg_multiplier": 0.23
+      "dmg_multiplier": 0.267
     },
     {
       "text": "Number of Targets",

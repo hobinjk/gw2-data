@@ -17,10 +17,10 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/27F233F7D4CE4E9EFE040E3D665B7B0643557B6E/102883.png",
+      "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
       "duration": 4,
-      "status": "Retaliation",
-      "description": "Reflect incoming damage back to its source; stacks duration.",
+      "status": "Resolution",
+      "description": "Incoming condition damage decreased by 33%; stacks duration.",
       "apply_count": 1
     },
     {
@@ -39,22 +39,21 @@
       "duration": 5
     },
     {
-      "text": "Attack Radius",
+      "text": "Number of Targets",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+      "value": 5
+    },
+    {
+      "text": "Radius",
       "type": "Distance",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "distance": 180
     },
     {
-      "text": "Reflection Radius",
-      "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 150
-    },
-    {
-      "text": "Number of Targets",
-      "type": "Number",
-      "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
-      "value": 3
+      "text": "Reflects Missiles",
+      "type": "NoData",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png"
     },
     {
       "text": "Combo Finisher",
@@ -64,7 +63,7 @@
       "finisher_type": "Whirl"
     }
   ],
-  "description": "Block projectiles while damaging nearby foes.",
+  "description": "Spin your axes around you to attack nearby foes.",
   "icon": "https://render.guildwars2.com/file/3D24774AAFBEFF40016ED8B451A245D95A2D08E3/103147.png",
   "type": "Weapon",
   "weapon_type": "Axe",

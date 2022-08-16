@@ -17,7 +17,7 @@
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/0EEEDE3EC37F7A6E1BC9BE20B69E3B2C09F5072F/2491582.png",
-      "duration": 5,
+      "duration": 15,
       "status": "Flame Wheel",
       "description": "Increased outgoing damage.",
       "apply_count": 1
@@ -36,7 +36,7 @@
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 0.1
+      "dmg_multiplier": 0.001
     },
     {
       "text": "Number of Targets",

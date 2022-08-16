@@ -47,7 +47,7 @@
       "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
       "duration": 3,
       "status": "Superspeed",
-      "description": "Movement speed is greatly increased.",
+      "description": "Movement speed is greatly increased. Maximum duration: 10s",
       "apply_count": 1
     },
     {
@@ -71,18 +71,5 @@
   "flags": [],
   "specialization": 58,
   "id": 44526,
-  "chat_link": "[&Bu6tAAA=]",
-  "traited_facts": [
-    {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/3BD4670638470439F3325B444FAF7D5FA620CCE5/62777.png",
-      "duration": 4,
-      "status": "Stealth",
-      "description": "Currently invisible. Ends if you deal damage.",
-      "apply_count": 1,
-      "requires_trait": 1136,
-      "overrides": 3
-    }
-  ]
+  "chat_link": "[&Bu6tAAA=]"
 }

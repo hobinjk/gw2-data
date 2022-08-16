@@ -35,6 +35,13 @@
       "dmg_multiplier": 0.5
     },
     {
+      "text": "Symbol Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "hit_count": 1,
+      "dmg_multiplier": 0.28
+    },
+    {
       "text": "Apply Buff/Condition",
       "type": "Buff",
       "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
@@ -102,12 +109,21 @@
       "overrides": 4
     },
     {
+      "text": "Symbol Damage",
+      "type": "Damage",
+      "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+      "requires_trait": 649,
+      "hit_count": 1,
+      "dmg_multiplier": 0.364,
+      "overrides": 5
+    },
+    {
       "text": "Number of Impacts",
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 12,
       "requires_trait": 558,
-      "overrides": 6
+      "overrides": 7
     },
     {
       "text": "Symbol Duration",
@@ -115,7 +131,7 @@
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
       "duration": 6,
       "requires_trait": 558,
-      "overrides": 7
+      "overrides": 8
     },
     {
       "text": "Symbol Radius",
@@ -123,7 +139,7 @@
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
       "distance": 240,
       "requires_trait": 558,
-      "overrides": 8
+      "overrides": 9
     }
   ]
 }

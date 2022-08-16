@@ -18,7 +18,7 @@
       "text": "Damage to Healing",
       "type": "Percent",
       "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "percent": 25
+      "percent": 33
     },
     {
       "text": "Duration",
@@ -31,6 +31,12 @@
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
       "duration": 2
+    },
+    {
+      "text": "Berserk Duration Increase",
+      "type": "Time",
+      "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+      "duration": 5
     },
     {
       "text": "Adrenaline",

@@ -73,6 +73,12 @@
       "type": "Number",
       "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
       "value": 3
+    },
+    {
+      "text": "Boons Removed",
+      "type": "Number",
+      "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+      "value": 2
     }
   ],
   "description": "Gadget. Throw out a remote-controlled land mine that damages, knocks back, and removes a boon from nearby foes.",

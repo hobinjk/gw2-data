@@ -8,11 +8,17 @@
       "value": 15
     },
     {
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 240
+    },
+    {
       "text": "Damage",
       "type": "Damage",
       "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
       "hit_count": 1,
-      "dmg_multiplier": 0.668
+      "dmg_multiplier": 0.5
     },
     {
       "text": "Apply Buff/Condition",
@@ -43,12 +49,6 @@
       "type": "Time",
       "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
       "duration": 1
-    },
-    {
-      "text": "Radius",
-      "type": "Distance",
-      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
-      "distance": 240
     },
     {
       "text": "Energy Cost",
@@ -87,15 +87,12 @@
   "chat_link": "[&BgP1AAA=]",
   "traited_facts": [
     {
-      "text": "Apply Buff/Condition",
-      "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
-      "duration": 2,
-      "status": "Resolution",
-      "description": "Incoming condition damage decreased by 33%; stacks duration.",
-      "apply_count": 1,
-      "requires_trait": 2251,
-      "overrides": 2
+      "text": "Radius",
+      "type": "Distance",
+      "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+      "distance": 360,
+      "requires_trait": 2234,
+      "overrides": 1
     },
     {
       "text": "Apply Buff/Condition",
@@ -107,6 +104,17 @@
       "apply_count": 1,
       "requires_trait": 2251,
       "overrides": 3
+    },
+    {
+      "text": "Apply Buff/Condition",
+      "type": "Buff",
+      "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+      "duration": 2,
+      "status": "Resolution",
+      "description": "Incoming condition damage decreased by 33%; stacks duration.",
+      "apply_count": 1,
+      "requires_trait": 2251,
+      "overrides": 4
     },
     {
       "text": "Apply Buff/Condition",

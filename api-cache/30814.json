@@ -50,10 +50,10 @@
     {
       "text": "Apply Buff/Condition",
       "type": "Buff",
-      "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+      "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
       "duration": 5,
-      "status": "Quickness",
-      "description": "Skills and actions are faster.",
+      "status": "Superspeed",
+      "description": "Movement speed is greatly increased. Maximum duration: 10s",
       "apply_count": 1
     },
     {
@@ -69,7 +69,7 @@
       "field_type": "Ethereal"
     }
   ],
-  "description": "Well. Create a well of delayed time, damaging and slowing foes. When the well expires, time snaps back, granting quickness to allies.",
+  "description": "Well. Create a well of delayed time, damaging and slowing foes. When the well expires, time snaps back, granting superspeed to allies.",
   "icon": "https://render.guildwars2.com/file/7F48A218D60E55A56DC14C4E660F56F72A472105/1012902.png",
   "type": "Utility",
   "weapon_type": "None",

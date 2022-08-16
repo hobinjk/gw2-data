@@ -41,7 +41,7 @@
       "percent": 50
     }
   ],
-  "description": "Signet Passive: Heal yourself whenever you summon an illusion. \nSignet Active: Heal yourself and reduce the recharge of phantasm skills.",
+  "description": "Signet Passive: Heal yourself whenever you summon an illusion.\nSignet Active: Heal yourself and reduce the recharge of phantasm skills.\n\nVirtuoso: Passive triggers when stocking a blade.",
   "icon": "https://render.guildwars2.com/file/EE5271572B2B10FBCE95097ECD54775832E8B9EF/699528.png",
   "type": "Heal",
   "weapon_type": "None",

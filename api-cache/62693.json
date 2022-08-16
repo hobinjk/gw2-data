@@ -23,7 +23,7 @@
       "icon": "https://render.guildwars2.com/file/2864D963D3FC9156E6F52FA95DD34C2DE30306BE/2491537.png",
       "duration": 15,
       "status": "Forerunner of Death",
-      "description": "Outgoing physical damage is increased.",
+      "description": "Outgoing strike damage is increased.",
       "apply_count": 1
     },
     {
